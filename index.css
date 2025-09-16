@@ -1,0 +1,12 @@
+h1 {
+    color: #ffea00;
+}
+
+body {
+background-color: black;
+}
+body {
+    background-image: url("src/imagens/strogonoff.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
