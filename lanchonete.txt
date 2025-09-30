@@ -1,0 +1,6 @@
+lanchonete: .catalogos de todos os produtores oferecidos
+            .modo de preparo dos igredientes e como foi feito
+            .endereço de localização da lanchonete fisicamente
+            . paleta de cores sera de branco e verde claro
+            .nome:estação do poder 
+            . lamchonete de produtos organicos
